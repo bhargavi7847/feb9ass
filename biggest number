@@ -1,0 +1,16 @@
+a=int(input('enter a value :'))
+b=int(input('enter b value :'))
+if a>b :
+    print('a is biggest number.')
+else:
+    print('b is biggest number.')
+
+output 1:
+enter a value :67
+enter b value :34
+a is biggest number.
+
+output 2:
+enter a value :34
+enter b value :67
+b is biggest number.
